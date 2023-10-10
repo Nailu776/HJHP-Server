@@ -1,4 +1,4 @@
-# HJHP-Server
+# HJHP-Server 
 Monitorowanie aktualnego stanu serwera HJHP
 
 # Publicznie dostępne monitory
